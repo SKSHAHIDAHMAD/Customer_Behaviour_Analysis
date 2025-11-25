@@ -2,7 +2,7 @@
 Data Analytics Project showcasing customer behaviour analysis using Python, SQL and PowerBI
 
 **Overview**
-This project demonstrates a full data analytics workflow, including data loading, exploratory data analysis (EDA), data cleaning, SQL querying (PostgreSQL/MySQL/SQL Server), visualization with Power BI, report writing, and final presentation using Gamma.​
+This project demonstrates a full data analytics workflow, including data loading, exploratory data analysis (EDA), data cleaning, SQL querying (MySQL), visualization with Power BI, report writing, and final presentation using Gamma.​
 
 **Dataset**
 - Description: [Briefly describe dataset, e.g., sales transactions, customer reviews, etc.]
@@ -11,7 +11,7 @@ This project demonstrates a full data analytics workflow, including data loading
 
 **Tools**
 - Python (pandas, numpy, matplotlib, seaborn)
-- SQL (PostgreSQL/MySQL/SQL Server)
+- SQL (MySQL)
 - Power BI
 - Gamma (for presentation)
 
