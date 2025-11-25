@@ -5,9 +5,9 @@ Data Analytics Project showcasing customer behaviour analysis using Python, SQL 
 This project demonstrates a full data analytics workflow, including data loading, exploratory data analysis (EDA), data cleaning, SQL querying (MySQL), visualization with Power BI, report writing, and final presentation using Gamma.​
 
 **Dataset**
-- Description: [Briefly describe dataset, e.g., sales transactions, customer reviews, etc.]
-- Source: [Public, internal, or simulated data]
-- Format: CSV/Excel
+- Description: A transactional customer shopping behavior dataset containing detailed records of purchases across multiple product categories. It includes customer demographics, purchase details, shopping behavior attributes, and subscription information for each transaction.
+- Source: Public
+- Format: CSV (Comma-Separated Values)
 
 **Tools**
 - Python (pandas, numpy, matplotlib, seaborn)
@@ -25,8 +25,10 @@ This project demonstrates a full data analytics workflow, including data loading
 7. Make PPT with Gamma: Turn key results into a clean, recruiter-ready presentation.​
 
 **Dashboard**
-- Main Metrics: [List, e.g., revenue trends, sales by region, customer churn]
-- Access: [Power BI dashboard link/screenshot]
+- Main Metrics: Total Revenue Trends, Sales by Region/Location, Purchases by Product Category, Average Review Rating, Customer Subscription Rates, Frequency of Purchases (Weekly, Monthly, etc.), Discounts and Promo Code Usage, Preferred Payment Methods, Seasonality of Purchases, Customer Segmentation (by demographics/behaviors)
+- Access: Power BI dashboard Screenshot
+  <img width="1258" height="692" alt="image" src="https://github.com/user-attachments/assets/8af058e4-2100-457c-9d9c-74c6ca260018" />
+
 
 **Results**
 - Summary of EDA and SQL findings​
